@@ -8,7 +8,6 @@ Previously, I've worked at **TD Securities** as a Data Analyst and **York Univer
 My past work can be found on my [portfolio](https://carltonosinde.ca/) - Feel free to reach out, I love connecting with new people😎
 
 
-!Carlton O. GitHub stats](https://github-readme-stats.vercel.app/api?username=CarltonOsinde&count_private=true&theme=onedark)      |  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carltonosinde&theme=dark)
+![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=carltonosinde&count_private=true&theme=onedark)      |  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carltonosinde&theme=dark)
 
-[![Carlton O. Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carltonosinde&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 :-------------------------:|:-------------------------:
