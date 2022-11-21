@@ -9,5 +9,3 @@ My past work can be found on my [portfolio](https://carltonosinde.ca/) - Feel fr
 
 
 ![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=carltonosinde&count_private=true&theme=onedark)      |  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carltonosinde&theme=dark)
-
-:-------------------------:|:-------------------------:
