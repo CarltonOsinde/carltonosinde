@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-### My name is Carlton Osinde, I am a Software Engineer with working experience as a Project Manager & Data Analyst. 
+### My name is Carlton Osinde, I am a Software Engineer with working experience as a Project Manager & Data Engineer. 
 I'm currently a Solutions Engineer @ **The Focus Company** and CEO/Founder of **Chaqu.**
 
 Prior to my current roles, I worked at **TD Securities** as a Engineering intern, Data Engineer intern at **U SPORTS** and a work study Web Developer at **York University.**
